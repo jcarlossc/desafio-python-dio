@@ -2,7 +2,7 @@
 Trilha Python. 
 
 ## Objetivos:
-Este projeto é uma modificação proposta pela plataforma Digital Innovation One como primeiro desafio da trilha Python. Url do projeto original: [Link text](https://github.com/digitalinnovationone/trilha-python-dio/blob/main/00%20-%20Fundamentos/desafio.py)
+Modificar um algoritmo de conta bancária simples. A proposta é da plataforma Digital Innovation One como primeiro desafio da trilha Python. Url do projeto original: [Conta bancário: DIO](https://github.com/digitalinnovationone/trilha-python-dio/blob/main/00%20-%20Fundamentos/desafio.py)
 
 ## Propostas da trilha Python:
 * Para a primeira versão do sistema devemos implementar apenas 3operações: depósito, saque e extrato.
